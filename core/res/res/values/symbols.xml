@@ -2903,4 +2903,7 @@
   <java-symbol type="bool" name="config_deviceHasVariableButtonBrightness" />
 
   <java-symbol type="bool" name="config_useSystemClockforRotationSensor" />
+
+  <!-- Accelerometer batching -->
+  <java-symbol type="bool" name="config_useDefaultBatchingForAccel" />
 </resources>
